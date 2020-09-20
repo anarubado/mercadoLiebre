@@ -12,4 +12,4 @@
 
 ###  ◾️ Desktop
 
-<img src="mockups/03_desktop.jpg" alt="mock-desktop" height="1000px">
+<img src="mockups/03_desktop.jpg" alt="mock-desktop">
